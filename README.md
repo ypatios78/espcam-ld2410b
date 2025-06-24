@@ -1,4 +1,4 @@
-# espcam-ld2410b
+esp32cam-ld2410b
 ESP32CAM(ai-thinker)-LD2410B-HumanPresence
 ESP32-CAM + LD2410B Project Documentation
 ==========================================
