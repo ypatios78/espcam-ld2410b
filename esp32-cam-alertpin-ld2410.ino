@@ -6,8 +6,8 @@
 #define CAMERA_MODEL_AI_THINKER
 
 // WiFi credentials
-const char* ssid = "Homenet";
-const char* password = "2245022622";
+const char* ssid = "";    // name of your ssid
+const char* password = ""; // wifi password 
 
 // LD2410B OUT pin - Simple digital presence detection
 #define PRESENCE_PIN 14  // LD2410B OUT -> ESP32 GPIO 14
